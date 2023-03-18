@@ -1,5 +1,4 @@
-# zomato
-Clone webpage of zomato using html,css.
+# Zomato-Clone
 This project contains the html part with advanced css.
 
 # output
